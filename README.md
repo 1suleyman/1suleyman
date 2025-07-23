@@ -1,16 +1,13 @@
-## Hi there 👋
+🧑‍💻 **Cloud Learner | DevOps Explorer | Docs-as-I-Learn Enthusiast**
 
-<!--
-**1suleyman/1suleyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I’m Suleyman — a certified Azure Administrator and AWS Cloud Practitioner currently building skills across **Terraform**, **Linux**, **Git**, **Python**, and **Kubernetes**.
 
-Here are some ideas to get you started:
+I use GitHub as my **public learning vault** — documenting what I learn through real projects, blog-style notes, and step-by-step labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Learning in public
+🔁 Breaking things down with analogies and examples
+🚀 Working toward becoming a well-rounded **cloud & DevOps engineer**
+
+Let’s learn, build, and share the journey — one repo at a time.
+
+
