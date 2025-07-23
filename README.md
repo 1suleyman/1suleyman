@@ -1,13 +1,20 @@
-🧑‍💻 **Cloud Learner | DevOps Explorer | Docs-as-I-Learn Enthusiast**
+🧑‍💻 **Junior Devops Engineer | Docs-as-I-Learn Enthusiast**
 
-Hey! I’m Suleyman — a certified Azure Administrator and AWS Cloud Practitioner currently building skills across **Terraform**, **Linux**, **Git**, **Python**, and **Kubernetes**.
+Hey! I’m Suleyman — a certified **AWS Cloud Practitioner** and **Azure Administrator** diving deep into **Terraform**, **Linux**, **Git**, **Python**, and **Kubernetes**, with a strong focus on mastering **AWS services and architecture**.
 
-I use GitHub as my **public learning vault** — documenting what I learn through real projects, blog-style notes, and step-by-step labs.
+I use GitHub as my **public learning vault** — documenting real projects, blog-style breakdowns, and hands-on labs that turn study into something practical.
 
 🌍 Learning in public
-🔁 Breaking things down with analogies and examples
-🚀 Working toward becoming a well-rounded **cloud & DevOps engineer**
+🔁 Breaking things down with analogies and real-world context
+🚀 Growing toward a well-rounded **cloud & DevOps engineer**, with AWS as my home base
 
-Let’s learn, build, and share the journey — one repo at a time.
+---
+
+📂 Explore my journey:
+• [**Tech-Journey (multi-cloud lab & blog repo)**](https://github.com/1suleyman/Tech-Journey)
+• [**100 Days of Python Challenge**](https://github.com/1suleyman/Tech-Journey/tree/main/Python/100%20Days%20of%20Python)
+
+Let’s learn, build, and grow — one commit at a time. ☁️💻
+
 
 
