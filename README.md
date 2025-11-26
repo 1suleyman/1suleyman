@@ -1,4 +1,4 @@
-🧑‍💻 **Junior Devops Engineer | Docs-as-I-Learn Enthusiast**
+🧑‍💻 **Junior Cloud/Devops Engineer | Docs-as-I-Learn Enthusiast**
 
 Hey! I’m Suleyman — a certified **AWS Cloud Practitioner** and **Azure Administrator** diving deep into **Terraform**, **Linux**, **Git**, **Python**, and **Kubernetes**, with a strong focus on mastering **AWS services and architecture**.
 
