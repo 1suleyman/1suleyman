@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suleyman
 
-### SC Cleared | Cloud Engineer | DevOps Engineer
+### Cloud Engineer | DevOps Engineer
 
 I'm a Cloud & DevOps Engineer with a background in software development and a strong focus on AWS, Terraform, Linux, and infrastructure automation.
 
